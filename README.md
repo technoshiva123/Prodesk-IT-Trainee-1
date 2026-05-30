@@ -3,7 +3,7 @@
 
 ## 📺 Project Demo
 
-[![Watch the video](https://img.shields.io/badge/Watch-Video-red?style=for-the-badge&logo=loom)]()
+[![Watch the video](https://img.shields.io/badge/Watch-Video-red?style=for-the-badge&logo=loom)](https://youtu.be/P3jYSsTuu1I?si=TL4Tu6sHjCBCOvJy)
 
 # Prodesk-IT Digital Agency Website
 A responsive multi-level landing page built with raw HTML, CSS, and JS.
@@ -19,4 +19,4 @@ A responsive multi-level landing page built with raw HTML, CSS, and JS.
 - **Icons Source:** [Remix Icon Pack](https://remixicon.com/) v4.8.0 via global CDN endpoints.
 
 ## 🚀 Live Demo 
-- **Live Demo:** [Click Here to View Live]()
+- **Live Demo:** [Click Here to View Live](https://prodesk-it-trainee-1.vercel.app/)
