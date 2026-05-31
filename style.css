@@ -37,7 +37,7 @@ body.dark-theme {
     --footer-bg: black;
 }
 
-/* navbar - fixed to top with blur effect */
+/* navbar */
 nav {
     height: 10vh;
     width: 100%;
@@ -108,7 +108,7 @@ nav div img {
     transform: scale(1.1);
 }
 
-/* hero section background image - need to optimize this image maybe */
+/* hero section background image */
 .hero {
     background-image: linear-gradient(rgba(23, 20, 23, 0.431), rgba(0, 0, 0, 0.594)), url('./assest/carlos-muza-hpjSkU2UYSU-unsplash.jpg');
     background-repeat: no-repeat;
