@@ -3,7 +3,7 @@
 
 ## 📺 Project Demo
 
-[![Watch the video](https://img.shields.io/badge/Watch-Video-red?style=for-the-badge&logo=loom)]([https://youtu.be/P3jYSsTuu1I?si=TL4Tu6sHjCBCOvJy](https://youtu.be/Nrt-x8AXEo8))
+[![Watch the video](https://img.shields.io/badge/Watch-Video-red?style=for-the-badge&logo=loom)]([https://youtu.be/Nrt-x8AXEo8])
 
 # Prodesk-IT Digital Agency Website
 A responsive multi-level landing page built with raw HTML, CSS, and JS.
